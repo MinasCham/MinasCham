@@ -25,7 +25,6 @@
 
 - :mortar_board: I am an enthusiastic and highly motivated ECE graduate.
 - :seedling: Mainly interested in the fields of Machine Learning, Computer Vision and Bioinformatics
-- 🤔 Currently seeking an entry level position as a Machine Learning Engineer
 
 
 ### :hammer_and_wrench: Technologies and Tools
