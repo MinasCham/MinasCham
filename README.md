@@ -23,7 +23,7 @@
 
 ### :man_technologist: About me
 
-- :mortar_board: I am an enthusiastic and highly motivated ECE graduate.
+- :mortar_board: I am an enthusiastic and highly motivated Electrical & Computer engineer turned ML engineer
 - :seedling: Mainly interested in the fields of Machine Learning, Computer Vision and Bioinformatics
 
 
